@@ -37,6 +37,8 @@ curl -fsSL https://raw.githubusercontent.com/hardwaresteam/Framecraft/main/frame
 | D-pad left, up or right | Pause menu |
 | Left stick click | Jump |
 | Right stick click | Crouch |
+| Right trigger | Break block / attack |
+| Left trigger | Teleport |
 
 I will admit, the automatically assigned controls are janky and I don’t like them. There will be a custom community layout option soon for better keybinds. However, for now you can manually change these if you’d like.
 Press the Steam button in game, go to Settings > Controllers > Manage Controller Bindings, and choose Vivecraft. Then you can configure from there.
